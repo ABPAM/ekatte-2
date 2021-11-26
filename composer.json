@@ -1,0 +1,22 @@
+{
+    "name": "abpam/ekatte",
+    "description": "Territorial Units classified by country, state, county, city/town/village and ready to use.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emil Avramov (ABPAM)",
+            "email": "avramov.emil@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "ABPAM\\Ekatte\\": "src/",
+            "Utilities\\": "src/Utilities/"
+        }
+    }
+}
