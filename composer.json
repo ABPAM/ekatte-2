@@ -2,6 +2,8 @@
     "name": "abpam/ekatte-2",
     "description": "Territorial Units classified by country, state, county, city/town/village and ready to use.",
     "type": "library",
+    "keywords": ["city", "county", "ekatte", "ekate", "list", "administrative", "град", "село", "област", "община"],
+    "homepage": "https://github.com/ABPAM/ekatte-2",
     "license": "MIT",
     "authors": [
         {
